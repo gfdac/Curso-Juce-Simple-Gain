@@ -68,3 +68,5 @@ CMakeUserPresets.json
 .editorconfig
 
 /Builds
+
+/JuceLibraryCode
