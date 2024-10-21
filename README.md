@@ -21,7 +21,8 @@ Este repositório apresenta um plugin de áudio simples, "Simple Gain", criado c
 1. **Clone o repositório:** `git clone https://github.com/gfdac/Curso-Juce-Simple-Gain.git`
 2. **Abra o projeto no JUCE:**  Abra o arquivo `CursoJuceGain.jucer` no JUCE.
 3. **Compile o projeto:** Gere o plugin VST para sua plataforma (macOS, Windows, Linux).
-4. **Carregue o plugin na sua DAW:**  Abra sua DAW favorita e carregue o plugin "Simple Gain".
+4. **Descomente o código fonte seguindo o tutorial do vídeo no meu canal `https://www.youtube.com/@techinfostudiobr`
+5. **Carregue o plugin na sua DAW:**  Abra sua DAW favorita e carregue o plugin "Simple Gain".
 
 **Requisitos:**
 
